@@ -1,0 +1,6 @@
+[submodule "athenaHealthCare-Teradata"]
+	path = athenaHealthCare-Teradata
+	url = https://github.com/rutujadhumal40/athenaHealthCare-Teradata.git
+[submodule "athena-teradata-frontend"]
+	path = athena-teradata-frontend
+	url = https://github.com/rutujadhumal40/athena-teradata-frontend.git
